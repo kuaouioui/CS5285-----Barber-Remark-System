@@ -1,0 +1,34 @@
+<html>
+  <head>
+   <title>Registration</title>
+  </head>
+  
+  <body>
+  <center>
+  <P style="font-size: 40px;">Registration</p>
+  
+  Gender:
+   <input type="radio" name="gerder" value="0">Male
+   <input type="radio" name="gerder" value="1">Female
+   <br><br>
+
+  Email:<input type="text" name="userEmail">
+   <br><br>
+  
+  User Name:<input type="text" name="userName">
+   <br><br>
+   
+  Create Password:<input type="text" name="createPassword">
+   <br><br>
+
+  Confirm Password:<input type="text" name="confirmPassword">
+   <br><br>
+
+  <input type="submit" value="Register">
+  &nbsp;&nbsp;
+  <input type="submit" value="Cancel">
+
+
+  </center>
+  </body>
+</html>
