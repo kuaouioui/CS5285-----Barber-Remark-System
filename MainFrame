@@ -1,2 +1,16 @@
 <html>
+  <body>
+  	<frameset cols = "15%,85%">
+  	  <frameset>
+  	    <frame sre = ""/>
+  	  </frameset>
+      
+      <frameset rows = "15%,70%,15%">
+        <frame sre = ""/>
+        <frame sre = ""/>
+        <frame sre = ""/>
+      </frameset>
+
+    </frameset>
+  </body>
 </html>
