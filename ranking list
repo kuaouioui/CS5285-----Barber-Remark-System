@@ -5,6 +5,17 @@
    <option value="comment"selected>Comment</option>
    <option value="comment number">Comment number</option>
  <select>
+ 	<table width=766 height=2000 border=5>
+ 		<tbody>
+ 			<tr><td>barber1 information</td></tr>
+ 			<tr><td>barber2 information</td></tr>
+ 			<tr><td>barber3 information</td></tr>
+ 			<tr><td>barber4 information</td></tr>
+ 			<tr><td>barber5 information</td></tr>
+ 			<tr><td>barber6 information</td></tr>
+ 			<tr><td>barber7 information</td></tr>
+ 		</tbody>
+ 	</table>
  
  </body>
 </html>
